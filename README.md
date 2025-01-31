@@ -1,5 +1,18 @@
 ## Hi there! 👋. I'm Stephan, an I.T. Professional and an avid linux enjoyer. I use arch by the way 🤓
 
+# Information Technology Projects:
+- Ticket (Help desk Ticketing System)
+    -[] [osTicket: Prerequisites and Installation.]()
+    -[] [osTicket: Post-Installation Configuration.]()
+    -[] [osTicket: Ticket Lifecycle Examples]()
+- Microsoft Azure
+    -[] [Configuring On premises Active Directory within Azure VMs] ()
+    -[] [Network Security Group (NSGs) and inspecting Network Protocols] ()
+
+```
+git status
+```
+
 <!--
 **stephan-agwai/stephan-agwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
