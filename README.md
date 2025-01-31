@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋. I'm Stephan, an I.T. Professional and an avid linux enjoyer. I use arch by the way 🤓
 
 <!--
 **stephan-agwai/stephan-agwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
