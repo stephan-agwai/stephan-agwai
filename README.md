@@ -7,8 +7,7 @@
     -[ ] [ osTicket: Ticket Lifecycle Examples]()  
 - Microsoft Azure  
     -[ ] [ Configuring On premises Active Directory within Azure VMs] ()  
-    -[ ] [Network Security Group (NSGs) and inspecting Network Protocols] ()  
-
+    -[ ] [Network Security Group (NSGs) and inspecting Network Protocols] () 
 <!--
 **stephan-agwai/stephan-agwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
