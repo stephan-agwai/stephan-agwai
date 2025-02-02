@@ -2,12 +2,12 @@
 
 # Information Technology Projects:  
 - Ticket (Help desk Ticketing System)  
-    -[ ] [osTicket: Prerequisites and Installation.]()  
-    -[ ] [ osTicket: Post-Installation Configuration.]()  
-    -[ ] [ osTicket: Ticket Lifecycle Examples]()  
+    - [ ] [osTicket: Prerequisites and Installation.](https://github.com/stephan-agwai/Ticket.git)  
+    - [ ] [osTicket: Post-Installation Configuration.](https://github.com/stephan-agwai/Ticket.git)  
+    - [ ] [osTicket: Ticket Lifecycle Examples.](https://github.com/stephan-agwai/Ticket.git)  
 - Microsoft Azure  
-    -[ ] [ Configuring On premises Active Directory within Azure VMs] ()  
-    -[ ] [Network Security Group (NSGs) and inspecting Network Protocols] () 
+    - [ ] [Configuring On premises Active Directory within Azure VMs.](https://github.com/stephan-agwai/Microsoft-Azure.git)  
+    - [ ] [Network Security Group (NSGs) and inspecting Network Protocols.](https://github.com/stephan-agwai/Ticket.git) 
 <!--
 **stephan-agwai/stephan-agwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
