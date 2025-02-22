@@ -6,7 +6,7 @@
     - [ ] [osTicket: Post-Installation Configuration.](https://github.com/stephan-agwai/Ticket.git)  
     - [ ] [osTicket: Ticket Lifecycle Examples.](https://github.com/stephan-agwai/Ticket.git)  
 - Microsoft Azure  
-    - [ ] [Configuring On premises Active Directory within Azure VMs.](https://github.com/stephan-agwai/Microsoft-Azure.git)  
+    - [ ] [Configuring On premises Active Directory within Azure VMs.](https://github.com/stephan-agwai/configuring-acttive-directory.git)  
     - [ ] [Network Security Group (NSGs) and inspecting Network Protocols.](https://github.com/stephan-agwai/Microsoft-Azure.git) 
 <!--
 **stephan-agwai/stephan-agwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
